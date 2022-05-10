@@ -20,7 +20,7 @@ print('tax to be paid:',Tax)
 #question:3
 SID=int(input("Enter student SID:"))
 Name=input("Enter student name:")
-Gender=input("Gender of the student (F/M/U):")
+Gender=input("Gender of the student:")
 Course_name=input("Enter Course name:")
 Cgpa=float(input("enter Cgpa:"))
 Student_list=[SID,Name,Gender,Course_name,Cgpa]
